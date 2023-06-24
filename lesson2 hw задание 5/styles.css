@@ -1,0 +1,32 @@
+h1 {
+    background: red;
+    font-size: 48px;
+}
+
+.paragraph-1 {
+    font-family: 'Courier';
+}
+
+.my_fat_text {
+    font-weight: bold;
+    display: block;
+}
+
+.paragraph-2 {
+    border: blue dotted 5px;
+    /* margin: 50px; */
+    padding: 50px;
+    font-family: 'Courier New';
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 50px;
+}
+
+.paragraph-hw {
+    font-style: oblique;
+    font-size: 24px;
+    text-shadow: green 2px 3px 4px;
+    display:block;
+}
